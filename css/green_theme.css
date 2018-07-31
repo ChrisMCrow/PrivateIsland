@@ -1,0 +1,20 @@
+h1{
+    color: brown;
+}
+h2{
+
+}
+p{
+  font-weight: bold;
+}
+body{  text-align:center;
+
+  background-color: #33FFC1;
+}
+ul,ol {
+    font-style: oblique;
+    display: inline-block; text-align: left;
+}
+a:active {
+    color: blue;
+}
