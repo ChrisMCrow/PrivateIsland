@@ -11,7 +11,7 @@ This is a website for a client who has requested two different themes for a Webp
 
 ## Setup/Installation Requirements
 
-* Clone to local host
+* Clone this repository
 * Open Index.html in a web browser
 
 ## Known Bugs
@@ -22,10 +22,14 @@ Chris Crow chrismcrow@gmail.com
 Vera Weikel vera.weikel@gmail.com
 
 ## Technologies Used
-HTML CSS
+HTML
+CSS
+Atom
+GitHub
+Git
 
 ### License
 MIT
 
-Copyright (c) 2016 **Chris Crow chrismcrow@gmail.com
+Copyright (c) 2018 **Chris Crow chrismcrow@gmail.com
 Vera Weikel vera.weikel@gmail.com**
