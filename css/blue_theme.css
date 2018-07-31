@@ -1,0 +1,20 @@
+h1{
+    color: blue;
+}
+h2{
+
+}
+p{
+  font-weight: bold;
+}
+body{
+  text-align: center;
+  background-color: lightblue;
+}
+ul,ol {
+    font-style: oblique;
+    display: inline-block; text-align: left;
+}
+a {
+    color: blue;
+}
